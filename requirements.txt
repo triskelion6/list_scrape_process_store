@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+python-dateutil
+unidecode
+pymongo
+openpyxl
+xlsxwriter
+-e .
