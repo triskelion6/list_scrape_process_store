@@ -1,5 +1,7 @@
 # Web scraping project
 
+Created on python version 3.9.13
+
 ## Objectives:
 1. Extract the news articles links of last 30 days using python
 
